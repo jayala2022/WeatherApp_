@@ -1,3 +1,7 @@
 h1 {
-  color: blue;
+  color: rgb(135, 135, 135);
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 28px;
 }
