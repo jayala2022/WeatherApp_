@@ -31,3 +31,10 @@ li {
   border-radius: 10px;
   max-width: 600px;
 }
+
+.temperature {
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
